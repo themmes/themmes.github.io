@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Tom Hemmes</title>
+    <subtitle>Fascinated by digital geometry</subtitle>
+    <link href="https://tomhemmes.com/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://tomhemmes.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-09-01T00:00:00+00:00</updated>
+    <id>https://tomhemmes.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Joining Lightyear</title>
+        <published>2022-09-01T00:00:00+00:00</published>
+        <updated>2022-09-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tomhemmes.com/blog/joining-lightyear/" type="text/html"/>
+        <id>https://tomhemmes.com/blog/joining-lightyear/</id>
+        <content type="html">&lt;p&gt;Last month I joined Lightyear as a Software Engineer for their Cloud Platform. Extremely excited to start working with Jorrit Salverda and Mathijs den Burger in Rust!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;a class=&quot;zola-anchor&quot; href=&quot;#links&quot; aria-label=&quot;Anchor link for: links&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightyear.one&quot;&gt;lightyear.one&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Right to repair</title>
+        <published>2022-05-22T00:00:00+00:00</published>
+        <updated>2022-05-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tomhemmes.com/projects/right-to-repair/" type="text/html"/>
+        <id>https://tomhemmes.com/projects/right-to-repair/</id>
+        <content type="html">&lt;p&gt;I take great pride in my repairs, trying to squeeze a longer life out of the items I own. Posting this record of repairs is mostly a reminder for myself to take repairability into account when buying things.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;product&lt;&#x2F;th&gt;&lt;th&gt;repair&lt;&#x2F;th&gt;&lt;th&gt;difficulty&lt;&#x2F;th&gt;&lt;th&gt;time (minutes)&lt;&#x2F;th&gt;&lt;th&gt;notes&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Baratza Encore&lt;&#x2F;td&gt;&lt;td&gt;motor replacement&lt;&#x2F;td&gt;&lt;td&gt;easy&lt;&#x2F;td&gt;&lt;td&gt;45&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Lavamat toploader washingmachine&lt;&#x2F;td&gt;&lt;td&gt;drive side bearring replacement&lt;&#x2F;td&gt;&lt;td&gt;easy&lt;&#x2F;td&gt;&lt;td&gt;30&lt;&#x2F;td&gt;&lt;td&gt;requires a &amp;quot;pin spanner&amp;quot;, which I do not own, but recreated by adding a bolt into the slot of a pipe wrench&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Garmin Fenix 3 HR&lt;&#x2F;td&gt;&lt;td&gt;battery replacement&lt;&#x2F;td&gt;&lt;td&gt;easy&lt;&#x2F;td&gt;&lt;td&gt;30&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sennheiser HD25 II&lt;&#x2F;td&gt;&lt;td&gt;cable replacement&lt;&#x2F;td&gt;&lt;td&gt;easy&lt;&#x2F;td&gt;&lt;td&gt;60&lt;&#x2F;td&gt;&lt;td&gt;The wire should be 2.35mm to fit the headband groove, although shielded cable will improve audio quality it often is too thick&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>A science-fiction bandage 🩹</title>
+        <published>2022-03-08T00:00:00+00:00</published>
+        <updated>2022-03-08T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tomhemmes.com/blog/scifi-bandage/" type="text/html"/>
+        <id>https://tomhemmes.com/blog/scifi-bandage/</id>
+        <content type="html">
+
+
+
+
+
+
+
+
+    
+
+
+
+&lt;figure &gt;
+    &lt;img src=&quot;escher_omhulsel.svg&quot; class=&quot;&quot; alt=&quot;Escher Omhulsel&quot;&#x2F;&gt;
+    
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Last week I got COVID19, not very surprising as it seems to be raging here in the Netherlands. Bound to home I was triggered to think about art for our apartment. My partner and I settled on two woodcuts by &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;M._C._Escher&quot;&gt;M.C. Escher&lt;&#x2F;a&gt;. One of those is his partner Jetta, depicted as invisible and wrapped in a bandage. I especially love it because it is said that Escher was not satisfied with the &amp;quot;open ends&amp;quot; of the bandage, which is why he made another version with two heads that picture a continuous bandage.&lt;&#x2F;p&gt;
+&lt;p&gt;Later I discovered that Escher was inspired by the science-fiction book &lt;a href=&quot;https:&#x2F;&#x2F;www.gutenberg.org&#x2F;ebooks&#x2F;5230&quot;&gt;The Invisible Man&lt;&#x2F;a&gt; by H.G. Wells which I found on the &lt;a href=&quot;https:&#x2F;&#x2F;www.gutenberg.org&quot;&gt;Gutenberg Project&lt;&#x2F;a&gt;. It is a fantastic 150 page short story and very much worth the read. The book seems to have inspired many, also for example &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Invisible_Man_(song)&quot;&gt;The Invisible Man&lt;&#x2F;a&gt; by &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Queen_(band)&quot;&gt;Queen&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;This weekend (I am allowed to leave the house again tomorrow) we will visit the &lt;a href=&quot;https:&#x2F;&#x2F;www.escherinhetpaleis.nl&#x2F;?lang=en&quot;&gt;Escher Museum&lt;&#x2F;a&gt; here in the Hague, the former palace of Queen Emma at the Lange Voorhout.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Walker&amp;Dunlop acquires GeoPhy</title>
+        <published>2022-02-24T00:00:00+00:00</published>
+        <updated>2022-02-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tomhemmes.com/blog/walkerdunlop-acquires-geophy/" type="text/html"/>
+        <id>https://tomhemmes.com/blog/walkerdunlop-acquires-geophy/</id>
+        <content type="html">&lt;p&gt;A small update to announce that GeoPhy is joining forces with Walker&amp;amp;Dunlop. For me that means I will become a Senior Software Engineer at Walker&amp;amp;Dunlop in the coming month.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;a class=&quot;zola-anchor&quot; href=&quot;#links&quot; aria-label=&quot;Anchor link for: links&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;geophy.com&#x2F;insights&#x2F;walker-dunlop-acquires-geophy-to-accelerate-technology-driven-businesses&#x2F;&quot;&gt;geophy.com&#x2F;insights&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;finance.yahoo.com&#x2F;news&#x2F;walker-dunlop-acquires-real-estate-142851011.html&quot;&gt;finance.yahoo.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>First flight attempt</title>
+        <published>2020-06-01T00:00:00+00:00</published>
+        <updated>2020-06-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tomhemmes.com/blog/first-flight-attempt/" type="text/html"/>
+        <id>https://tomhemmes.com/blog/first-flight-attempt/</id>
+        <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;a class=&quot;zola-anchor&quot; href=&quot;#introduction&quot; aria-label=&quot;Anchor link for: introduction&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;A few weeks ago I had a chat with my engineering manager at Geophy. He
+suggested to think about increasing my hours. A question I asked myself from time to time too. I guess when you create a parttime structure it is hard to give that up, just like it is a hard decision to leave the safe zone when working full-time. I agreed with myself to give up my first adventure and start working full-time. Here I would like to share the lessons I learned from that period that will come to an end.&lt;&#x2F;p&gt;
+&lt;p&gt;During my Masters in Geomatics I got to work on many practical problems (visualisation of large point clouds, 3D geometry reconstruction, etc). These topics inspired to start a company, especially because it was immediately clear that companies would benefit from a solution.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;attempts&quot;&gt;Attempts&lt;a class=&quot;zola-anchor&quot; href=&quot;#attempts&quot; aria-label=&quot;Anchor link for: attempts&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;After my graduation I started on a personal project to feel free after the limitations of graduation. I worked on it for a few months fulltime before
+switching to a parttime-work-and-side-project schedule. In about 2 years I worked on 3 projects. From the evolving value propositions of the projects you can see how well I got grip of the subject.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scan-to-building-information-model-1-5-year&quot;&gt;Scan to Building Information Model (1,5 year)&lt;a class=&quot;zola-anchor&quot; href=&quot;#scan-to-building-information-model-1-5-year&quot; aria-label=&quot;Anchor link for: scan-to-building-information-model-1-5-year&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;The first project I worked on is &lt;em&gt;Scan-to-BIM&lt;&#x2F;em&gt;. Scan-to-BIM is the process of reconstructing a 3D model from a pointcloud. In 1,5 years the value proposition developed like this:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Point cloud reconstruction&lt;&#x2F;li&gt;
+&lt;li&gt;Generate a simple 3D model from a laser scan point cloud&lt;&#x2F;li&gt;
+&lt;li&gt;Improve the building permit process by automating 3D models and drawings from
+a 3D scan&lt;&#x2F;li&gt;
+&lt;li&gt;Up to date drawings of any building, so architects can focus on designing the
+new&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;It changed in multiple directions:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;from technical to user perspective&lt;&#x2F;li&gt;
+&lt;li&gt;from broad to small scope&lt;&#x2F;li&gt;
+&lt;li&gt;from academic to marketing phrasing&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Moving from an academic subject to a technical description (1 to 2), then applying the technology to a practical problem (2 to 3) and finally to understand the users needs and target painpoints (3 to 4). It may seem as if with step 4 the scope widens again. This is just marketing phrasing, because in practice we were still only focussed on the building permit application process.&lt;&#x2F;p&gt;
+&lt;p&gt;This project took so long (and could have taken even longer), because I was mixing coding with discovering the value proposition. Scan-to-BIM is considered a very complex academic problem and I could have spend a PhD on the matter if I wanted to. To tackle this problem while interviewing and discovering the market was not feasible for me.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;graph-network-notes-3-months&quot;&gt;Graph network notes (3 months)&lt;a class=&quot;zola-anchor&quot; href=&quot;#graph-network-notes-3-months&quot; aria-label=&quot;Anchor link for: graph-network-notes-3-months&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;The second project was born out of frustration with tools like Nuclino or Slack. What I discovered is that when interviewing people about an abstract topic like Knowledge Managment their interpretations are all over the place. My value proposition simply followed them.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Putting notes in graph&lt;&#x2F;li&gt;
+&lt;li&gt;Create data driven org charts, business process diagrams or knowledge graphs&lt;&#x2F;li&gt;
+&lt;li&gt;Combine knowledge structure and org chart to answer “who should I ask for
+that?”&lt;&#x2F;li&gt;
+&lt;li&gt;Implement meeting notes in a graph to structure input and outcome of meetings
+and overall progress&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;I decided that there is no reason why this project should happen right now, nor why I would be the best person to pursue this. Meanwhile I was working on a third project...&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;simple-contracts-with-friends-3-weeks&quot;&gt;Simple contracts with friends (3 weeks)&lt;a class=&quot;zola-anchor&quot; href=&quot;#simple-contracts-with-friends-3-weeks&quot; aria-label=&quot;Anchor link for: simple-contracts-with-friends-3-weeks&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;This was the first project where I started with a problem I did not have a solution for. I brought on board an old friend who I thought who might be interested in the problem.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Avoid breaking relationships over 25 to 3000 euro&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The first thing he suggested was posting a question online to see what people thought. The results were pretty clear, there were a few very loud voices that had sad experiences, but most people never had problems over money with friends. These results might not mean much, but at that point they convinced us not to sink a lot of time in the idea. I was proud that we got to conclusion that quickly.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;lessons&quot;&gt;Lessons&lt;a class=&quot;zola-anchor&quot; href=&quot;#lessons&quot; aria-label=&quot;Anchor link for: lessons&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;It is hard to write down lessons from my experiences, because each time I try to find the words they sound like the advice I read over and over on other blogs and books. Apparently, reading that advice did not help me. Below I reflect on some of the common start-up wisdom to frame my lessons.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do not try to start from the idea, start from the problem.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Everyone (including me)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Depending on your personal discipline it is great benefit or a huge burden if you already have an idea of how to solve the problem. This is even worse if you have an idea for a technology or solution, but do not have a corresponding problem. For two of the projects I started with the idea and worked from there. It is easy to trick yourself in reversing the idea into a fictional problem: I want to work on “point cloud reconstruction”, so “for people who have a point cloud, but need a reconstruction” I build a tool. You cannot make up these people! If you wish to make that claim, you will first have to find a number of people who are all willing to give you x amount of money to solve this problem for you. That is when you have taken your fictional problem and turned it into something real.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do not spend more than two months on the MVP&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Michael Seibel&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;This quote is something I read quite early and foolishly it legitimised spending 2 months on building a prototype for my second idea, while I should have been interviewing more people. When you start working on a problem you want to forget about coding an MVP, you are nowhere near that. First you need to find more people with that problem. When you interview people you want to get a broad sense of who they are, what they do and finally how they got to this problem.  When you understand more about this you can start thinking about a first experiment. What is it that you think needs solving, write down all such assumptions you have. Create experiments to tests these assumptions, you could use something along the lines of a survey, a spreadsheet or an image, but it should be simple because you have many assumptions to test!&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;lt;insert quote about hustle&amp;gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Someone from Silicon Valley&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I think I will not try to combine starting a business with working a parttime job again. Even if you give your startup half your time, overall overhead (in terms of bandwidth) from doing two things at the same time is significant.  On top of that the parttime job gives a lot of stability, again if you have the discipline that’s fine, but in my case it allowed me to build more than the minimum viable.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;next-steps&quot;&gt;Next steps&lt;a class=&quot;zola-anchor&quot; href=&quot;#next-steps&quot; aria-label=&quot;Anchor link for: next-steps&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;For the foreseeable future I will focus on my work at Geophy. Dive into the needs of the Appraiser business and how I can make their process faster by providing insights from geospatial data. Of course I will keep my eyes open for interesting problems in other areas and keep improving my ability to discover markets in such problems.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for reading!&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
